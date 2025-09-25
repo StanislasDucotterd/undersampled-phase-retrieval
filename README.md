@@ -1,7 +1,7 @@
 # Undersampled Phase Retrieval with Image Priors
 Implementation of experiments done in : https://arxiv.org/abs/2509.15026v1
 
-![alt text](https://github.com/StanislasDucotterd/MFoE/blob/main/potential.png?raw=true)
+![alt text](https://github.com/StanislasDucotterd/undersampled-phase-retrieval/blob/main/phase_retrieval_results.png?raw=true)
 
 #### Description
 Phase retrieval seeks to recover a complex signal from amplitude-only measurements, a challenging nonlinear inverse problem. Current theory and algorithms often ignore signal priors. By contrast, we evaluate here a variety of image priors in the context of severe undersampling with structured random Fourier measurements. Our results show that those priors significantly improve reconstruction, allowing accurate reconstruction even below the weak recovery threshold.
