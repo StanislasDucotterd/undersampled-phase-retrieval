@@ -11,7 +11,7 @@ The required packages:
 - `pytorch`
 - `deepinv` (to load DRUNet and its parameters)
 
-#### Training
+#### Experiments
 
 You can run the reconstruction code with TV or MFoE using
 
